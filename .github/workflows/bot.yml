@@ -30,3 +30,4 @@ jobs:
         working-directory: shorts
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          SHORTS_TOKEN: ${{ secrets.SHORTS_TOKEN }}
