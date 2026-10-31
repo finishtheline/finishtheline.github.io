@@ -1,0 +1,32 @@
+# Telegram bot for Finish The Line: answers /status and batch approvals within minutes.
+# Runs scripts/line/bot.mjs from the private repo finishtheline/shorts.
+# Secrets: SHORTS_TOKEN (fine-grained token, Contents read/write on finishtheline/shorts),
+#          TELEGRAM_BOT_TOKEN (from @BotFather).
+name: Telegram bot
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: telegram-bot
+  cancel-in-progress: false
+jobs:
+  reply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: finishtheline/shorts
+          token: ${{ secrets.SHORTS_TOKEN }}
+          path: shorts
+      - uses: actions/checkout@v4
+        with:
+          path: shorts/site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/line/bot.mjs
+        working-directory: shorts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
