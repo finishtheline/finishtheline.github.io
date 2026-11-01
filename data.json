@@ -1,5 +1,17 @@
 {
-  "updatedAt": "2026-10-31T18:28:50.911Z",
+  "updatedAt": "2026-11-01T08:14:00.276Z",
   "hall": [],
-  "lines": []
+  "lines": [
+    {
+      "date": "2026-11-01",
+      "saying": "Giving power to a fool...",
+      "postedAt": "2026-11-01T08:13:57.516Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/UjVZEUeD3xk",
+        "instagram": "https://www.instagram.com/reel/DfMRl15gToM/"
+      },
+      "total": 0,
+      "top": []
+    }
+  ]
 }
