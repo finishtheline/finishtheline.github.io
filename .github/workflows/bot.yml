@@ -1,20 +1,17 @@
-# Telegram bot for Finish The Line: long-polls ~5 min per run and restarts every 5 min, so
-# replies come within seconds.
-# Runs scripts/line/bot.mjs from the private repo finishtheline/shorts.
-# Secrets: SHORTS_TOKEN (fine-grained token, Contents read/write on finishtheline/shorts),
+# Telegram bot for Finish The Line: runs scripts/line/bot.mjs (private repo finishtheline/shorts)
+# once per event: "telegram" = a message pushed by the Cloudflare Worker (cloudflare/worker.js
+# in the private repo), "announce" = a render finished and has previews to send.
+# Secrets: SHORTS_TOKEN (fine-grained token, Contents read/write on both repos),
 #          TELEGRAM_BOT_TOKEN (from @BotFather).
 name: Telegram bot
 on:
-  schedule:
-    - cron: "*/5 * * * *"
+  repository_dispatch:
+    types: [telegram, announce]
   workflow_dispatch:
-concurrency:
-  group: telegram-bot
-  cancel-in-progress: false
 jobs:
   reply:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
         with:
@@ -32,4 +29,3 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           SHORTS_TOKEN: ${{ secrets.SHORTS_TOKEN }}
-          BOT_SECONDS: "280"

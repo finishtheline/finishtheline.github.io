@@ -1,0 +1,30 @@
+# One-off: point the Telegram bot at the Cloudflare Worker (or remove the webhook).
+# Run it from the Actions tab with the Worker's URL. Secrets: TELEGRAM_BOT_TOKEN,
+# TG_WEBHOOK_SECRET (same value as the Worker's TG_SECRET).
+name: Telegram webhook
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "Worker URL (https://...workers.dev), or 'delete' to remove the webhook"
+        required: true
+jobs:
+  set:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set webhook
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          SECRET: ${{ secrets.TG_WEBHOOK_SECRET }}
+          URL: ${{ inputs.url }}
+        run: |
+          if [ "$URL" = "delete" ]; then
+            curl -s "https://api.telegram.org/bot$TOKEN/deleteWebhook"
+          else
+            curl -s "https://api.telegram.org/bot$TOKEN/setWebhook" \
+              --data-urlencode "url=$URL" \
+              --data-urlencode "secret_token=$SECRET" \
+              --data-urlencode 'allowed_updates=["message"]'
+          fi
+          echo
+          curl -s "https://api.telegram.org/bot$TOKEN/getWebhookInfo" | sed 's/"url":"[^"]*"/"url":"(set)"/'
