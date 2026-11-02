@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-01T08:14:00.276Z",
+  "updatedAt": "2026-11-02T08:21:55.349Z",
   "hall": [],
   "lines": [
+    {
+      "date": "2026-11-02",
+      "saying": "And then you left...",
+      "postedAt": "2026-11-02T08:21:52.628Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/doQgcluiATY",
+        "instagram": "https://www.instagram.com/reel/DfO3UuWnZrP/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-01",
       "saying": "Giving power to a fool...",
