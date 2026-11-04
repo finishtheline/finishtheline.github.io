@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-03T08:15:58.252Z",
+  "updatedAt": "2026-11-04T08:14:28.660Z",
   "hall": [],
   "lines": [
+    {
+      "date": "2026-11-04",
+      "saying": "The ones who stayed...",
+      "postedAt": "2026-11-04T08:14:25.874Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/wpx7iWvwf_o",
+        "instagram": "https://www.instagram.com/reel/DfUACncAvpM/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-03",
       "saying": "Of course I will do it alone...",
