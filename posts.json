@@ -31,7 +31,23 @@
     "postedAt": "2026-11-02T08:21:52.628Z",
     "youtubeId": "doQgcluiATY",
     "instagramId": "18186998869423642",
-    "instagramPermalink": "https://www.instagram.com/reel/DfO3UuWnZrP/"
+    "instagramPermalink": "https://www.instagram.com/reel/DfO3UuWnZrP/",
+    "stats": {
+      "instagram": {
+        "views": 14,
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "youtube": {
+        "views": 106,
+        "likes": 3,
+        "comments": 0
+      },
+      "fetchedAt": "2026-11-05T08:14:05.552Z",
+      "score": 0.025
+    }
   },
   {
     "date": "2026-11-03",
