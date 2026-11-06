@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-05T08:14:05.643Z",
+  "updatedAt": "2026-11-06T08:16:11.056Z",
   "hall": [],
   "lines": [
+    {
+      "date": "2026-11-06",
+      "saying": "If I could tell my younger self one thing...",
+      "postedAt": "2026-11-06T08:16:08.305Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/ObqsF6W-0G4",
+        "instagram": "https://www.instagram.com/reel/DfZJ1V8lFTe/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-05",
       "saying": "I stopped explaining myself when...",
