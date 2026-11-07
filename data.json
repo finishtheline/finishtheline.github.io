@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-06T08:16:13.635Z",
+  "updatedAt": "2026-11-07T08:14:07.743Z",
   "hall": [],
   "lines": [
+    {
+      "date": "2026-11-07",
+      "saying": "Some people only remember you when...",
+      "postedAt": "2026-11-07T08:14:05.136Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/r_RWQyRkYiY",
+        "instagram": "https://www.instagram.com/reel/DfbuevWlOOU/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-06",
       "saying": "If I could tell my younger self one thing...",
