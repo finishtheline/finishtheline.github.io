@@ -1,14 +1,6 @@
 {
-  "updatedAt": "2026-11-09T08:17:47.540Z",
+  "updatedAt": "2026-11-09T08:18:12.217Z",
   "hall": [
-    {
-      "id": "Ugx5GKpdOhs1RYti47N4AaABAg",
-      "user": "@kathydoan2845",
-      "text": "They need some help 😢",
-      "likes": 1,
-      "platform": "youtube",
-      "saying": "Some people only remember you when..."
-    },
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
       "user": "@PaulWiliams-m9w",
@@ -44,7 +36,7 @@
           "id": "Ugx5GKpdOhs1RYti47N4AaABAg",
           "user": "@kathydoan2845",
           "text": "They need some help 😢",
-          "likes": 1,
+          "likes": 0,
           "platform": "youtube"
         }
       ]
