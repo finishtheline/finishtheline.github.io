@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T08:12:17.070Z",
+  "updatedAt": "2026-11-09T08:17:47.540Z",
   "hall": [
     {
       "id": "Ugx5GKpdOhs1RYti47N4AaABAg",
@@ -19,6 +19,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-09",
+      "saying": "The quiet got louder when...",
+      "postedAt": "2026-11-09T08:17:44.953Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/svWD-V8CkRg",
+        "instagram": "https://www.instagram.com/reel/Dfg4eIcjhiD/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-07",
       "saying": "Some people only remember you when...",
