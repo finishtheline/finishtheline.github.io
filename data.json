@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T08:18:30.395Z",
+  "updatedAt": "2026-11-10T08:16:04.950Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -11,6 +11,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-10",
+      "saying": "I almost told you that...",
+      "postedAt": "2026-11-10T08:16:01.965Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/8vWrV9WH4o4",
+        "instagram": "https://www.instagram.com/reel/DfjdEjeCaEE/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-09",
       "saying": "The quiet got louder when...",
