@@ -175,7 +175,23 @@
     "postedAt": "2026-11-09T08:17:44.953Z",
     "youtubeId": "svWD-V8CkRg",
     "instagramId": "18110058442961133",
-    "instagramPermalink": "https://www.instagram.com/reel/Dfg4eIcjhiD/"
+    "instagramPermalink": "https://www.instagram.com/reel/Dfg4eIcjhiD/",
+    "stats": {
+      "instagram": {
+        "views": 60,
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "youtube": {
+        "views": 283,
+        "likes": 4,
+        "comments": 0
+      },
+      "fetchedAt": "2026-11-12T08:15:22.973Z",
+      "score": 0.011661807580174927
+    }
   },
   {
     "date": "2026-11-10",
