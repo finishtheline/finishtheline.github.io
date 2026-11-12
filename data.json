@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T08:15:16.809Z",
+  "updatedAt": "2026-11-12T08:14:36.785Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -51,6 +51,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-12",
+      "saying": "The hardest part of coming home...",
+      "postedAt": "2026-11-12T08:14:34.197Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/BCX14DCCOyQ",
+        "instagram": "https://www.instagram.com/reel/Dfomfvao1o3/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-11",
       "saying": "Nobody noticed that I had stopped...",
