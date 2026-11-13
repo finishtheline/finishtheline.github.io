@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T08:15:23.082Z",
+  "updatedAt": "2026-11-13T08:14:41.705Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -43,6 +43,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-13",
+      "saying": "I thought I wanted fast, until...",
+      "postedAt": "2026-11-13T08:14:39.303Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/B5wez2aFeXw",
+        "instagram": "https://www.instagram.com/reel/DfrLSB1EQO3/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-12",
       "saying": "The hardest part of coming home...",
