@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T08:13:54.724Z",
+  "updatedAt": "2026-11-14T08:14:05.754Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -8,6 +8,14 @@
       "likes": 2,
       "platform": "youtube",
       "saying": "If I could tell my younger self one thing..."
+    },
+    {
+      "id": "UgygRlTuMSwlMogL4Cp4AaABAg",
+      "user": "@TECHBYTE.67",
+      "text": "I loved you.",
+      "likes": 1,
+      "platform": "youtube",
+      "saying": "I almost told you that..."
     },
     {
       "id": "Ugx5GKpdOhs1RYti47N4AaABAg",
@@ -62,8 +70,16 @@
         "youtube": "https://www.youtube.com/shorts/B5wez2aFeXw",
         "instagram": "https://www.instagram.com/reel/DfrLSB1EQO3/"
       },
-      "total": 0,
-      "top": []
+      "total": 1,
+      "top": [
+        {
+          "id": "UgxwEA-rgYbksSxTnb54AaABAg",
+          "user": "@xEpiCxLoCo",
+          "text": "I met you.",
+          "likes": 0,
+          "platform": "youtube"
+        }
+      ]
     },
     {
       "date": "2026-11-12",
@@ -95,8 +111,15 @@
         "youtube": "https://www.youtube.com/shorts/8vWrV9WH4o4",
         "instagram": "https://www.instagram.com/reel/DfjdEjeCaEE/"
       },
-      "total": 1,
+      "total": 2,
       "top": [
+        {
+          "id": "UgygRlTuMSwlMogL4Cp4AaABAg",
+          "user": "@TECHBYTE.67",
+          "text": "I loved you.",
+          "likes": 1,
+          "platform": "youtube"
+        },
         {
           "id": "17983120074122065",
           "user": "@judri2024",
