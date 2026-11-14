@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T08:15:09.510Z",
+  "updatedAt": "2026-11-14T08:12:53.958Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -43,6 +43,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-14",
+      "saying": "The kindest thing anyone did for me...",
+      "postedAt": "2026-11-14T08:12:51.850Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/hj0Wj8qt-pk",
+        "instagram": "https://www.instagram.com/reel/Dftv5gNDssy/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-13",
       "saying": "I thought I wanted fast, until...",
