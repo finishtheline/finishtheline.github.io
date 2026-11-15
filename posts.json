@@ -244,7 +244,23 @@
     "postedAt": "2026-11-12T08:14:34.197Z",
     "youtubeId": "BCX14DCCOyQ",
     "instagramId": "18100310597224630",
-    "instagramPermalink": "https://www.instagram.com/reel/Dfomfvao1o3/"
+    "instagramPermalink": "https://www.instagram.com/reel/Dfomfvao1o3/",
+    "stats": {
+      "instagram": {
+        "views": 122,
+        "likes": 1,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "youtube": {
+        "views": 7,
+        "likes": 0,
+        "comments": 0
+      },
+      "fetchedAt": "2026-11-15T08:13:41.282Z",
+      "score": 0.007751937984496124
+    }
   },
   {
     "date": "2026-11-13",
