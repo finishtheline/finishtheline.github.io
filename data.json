@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T08:14:05.754Z",
+  "updatedAt": "2026-11-15T08:12:56.221Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -51,6 +51,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-15",
+      "saying": "We never talked about it, but...",
+      "postedAt": "2026-11-15T08:12:53.950Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/XqnumHqUbmc",
+        "instagram": "https://www.instagram.com/reel/DfwUslRjiUp/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-14",
       "saying": "The kindest thing anyone did for me...",
