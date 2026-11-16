@@ -269,7 +269,23 @@
     "postedAt": "2026-11-13T08:14:39.303Z",
     "youtubeId": "B5wez2aFeXw",
     "instagramId": "18021421700956071",
-    "instagramPermalink": "https://www.instagram.com/reel/DfrLSB1EQO3/"
+    "instagramPermalink": "https://www.instagram.com/reel/DfrLSB1EQO3/",
+    "stats": {
+      "instagram": {
+        "views": 119,
+        "likes": 1,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "youtube": {
+        "views": 526,
+        "likes": 10,
+        "comments": 1
+      },
+      "fetchedAt": "2026-11-16T08:19:30.907Z",
+      "score": 0.020155038759689922
+    }
   },
   {
     "date": "2026-11-14",
@@ -278,7 +294,23 @@
     "postedAt": "2026-11-14T08:12:51.850Z",
     "youtubeId": "hj0Wj8qt-pk",
     "instagramId": "18149804443571352",
-    "instagramPermalink": "https://www.instagram.com/reel/Dftv5gNDssy/"
+    "instagramPermalink": "https://www.instagram.com/reel/Dftv5gNDssy/",
+    "stats": {
+      "instagram": {
+        "views": 18,
+        "likes": 0,
+        "comments": 0,
+        "saves": 0,
+        "shares": 0
+      },
+      "youtube": {
+        "views": 1025,
+        "likes": 10,
+        "comments": 0
+      },
+      "fetchedAt": "2026-11-16T08:19:30.966Z",
+      "score": 0.009587727708533078
+    }
   },
   {
     "date": "2026-11-15",
