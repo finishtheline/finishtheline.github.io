@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T08:13:48.896Z",
+  "updatedAt": "2026-11-16T08:18:46.807Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -51,6 +51,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-16",
+      "saying": "I kept showing up, but you...",
+      "postedAt": "2026-11-16T08:18:43.774Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/wL7NQhAYgC0",
+        "instagram": "https://www.instagram.com/reel/Dfy6JbsEUh_/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-15",
       "saying": "We never talked about it, but...",
