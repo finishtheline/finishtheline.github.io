@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T08:19:31.079Z",
+  "updatedAt": "2026-11-17T08:13:28.653Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -51,6 +51,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-17",
+      "saying": "Nobody clapped when I finally...",
+      "postedAt": "2026-11-17T08:13:26.201Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/1uYcdyIoyiw",
+        "instagram": "https://www.instagram.com/reel/Df1eWFAj3V4/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-16",
       "saying": "I kept showing up, but you...",
