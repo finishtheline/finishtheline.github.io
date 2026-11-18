@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T08:13:44.233Z",
+  "updatedAt": "2026-11-18T08:14:45.554Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -51,6 +51,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-18",
+      "saying": "The first time someone chose me...",
+      "postedAt": "2026-11-18T08:14:42.924Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/2orcb0OZ1u8",
+        "instagram": "https://www.instagram.com/reel/Df4DSVrid1a/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-17",
       "saying": "Nobody clapped when I finally...",
