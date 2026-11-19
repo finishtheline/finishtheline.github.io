@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T08:15:30.924Z",
+  "updatedAt": "2026-11-19T08:14:48.153Z",
   "hall": [
     {
       "id": "UgzYpGP-ZMNXiFIJnrV4AaABAg",
@@ -67,6 +67,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-19",
+      "saying": "I didn't realize how fast it went until...",
+      "postedAt": "2026-11-19T08:14:45.509Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/3pKFLcEx48M",
+        "instagram": "https://www.instagram.com/reel/Df6oGl2lDcf/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-18",
       "saying": "The first time someone chose me...",
