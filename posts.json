@@ -344,7 +344,21 @@
     "postedAt": "2026-11-16T08:18:43.774Z",
     "youtubeId": "wL7NQhAYgC0",
     "instagramId": "18399503629166372",
-    "instagramPermalink": "https://www.instagram.com/reel/Dfy6JbsEUh_/"
+    "instagramPermalink": "https://www.instagram.com/reel/Dfy6JbsEUh_/",
+    "stats": {
+      "instagram": {
+        "views": 128,
+        "likes": 2,
+        "comments": 0
+      },
+      "youtube": {
+        "views": 1275,
+        "likes": 28,
+        "comments": 0
+      },
+      "fetchedAt": "2026-11-19T08:15:45.004Z",
+      "score": 0.021382751247327157
+    }
   },
   {
     "date": "2026-11-17",
@@ -353,7 +367,21 @@
     "postedAt": "2026-11-17T08:13:26.201Z",
     "youtubeId": "1uYcdyIoyiw",
     "instagramId": "18654706297013592",
-    "instagramPermalink": "https://www.instagram.com/reel/Df1eWFAj3V4/"
+    "instagramPermalink": "https://www.instagram.com/reel/Df1eWFAj3V4/",
+    "stats": {
+      "instagram": {
+        "views": 105,
+        "likes": 1,
+        "comments": 0
+      },
+      "youtube": {
+        "views": 334,
+        "likes": 7,
+        "comments": 2
+      },
+      "fetchedAt": "2026-11-19T08:15:45.034Z",
+      "score": 0.02733485193621868
+    }
   },
   {
     "date": "2026-11-18",
