@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T08:15:45.105Z",
+  "updatedAt": "2026-11-20T08:14:07.275Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -75,6 +75,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-20",
+      "saying": "I loved you at the wrong time, so...",
+      "postedAt": "2026-11-20T08:14:04.728Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/wqVP2kSDt4A",
+        "instagram": "https://www.instagram.com/reel/Df9M0AblY0k/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-19",
       "saying": "I didn't realize how fast it went until...",
