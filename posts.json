@@ -390,7 +390,20 @@
     "postedAt": "2026-11-18T08:14:42.924Z",
     "youtubeId": "2orcb0OZ1u8",
     "instagramId": "18169193923493275",
-    "instagramPermalink": "https://www.instagram.com/reel/Df4DSVrid1a/"
+    "instagramPermalink": "https://www.instagram.com/reel/Df4DSVrid1a/",
+    "stats": {
+      "instagram": {
+        "likes": 0,
+        "comments": 0
+      },
+      "youtube": {
+        "views": 581,
+        "likes": 11,
+        "comments": 2
+      },
+      "fetchedAt": "2026-11-21T08:14:22.686Z",
+      "score": 0.025817555938037865
+    }
   },
   {
     "date": "2026-11-19",
