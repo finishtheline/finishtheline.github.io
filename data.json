@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T08:14:07.275Z",
+  "updatedAt": "2026-11-21T08:13:29.104Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -75,6 +75,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-21",
+      "saying": "The small win nobody knows about...",
+      "postedAt": "2026-11-21T08:13:26.731Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/KybLsg5BcqU",
+        "instagram": "https://www.instagram.com/reel/Df_xhbUAM3S/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-20",
       "saying": "I loved you at the wrong time, so...",
