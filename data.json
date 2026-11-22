@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T08:12:48.885Z",
+  "updatedAt": "2026-11-22T08:13:35.984Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -18,17 +18,17 @@
       "saying": "If I could tell my younger self one thing..."
     },
     {
-      "id": "UgyxjQcf9EizTN02igt4AaABAg",
-      "user": "@AnonymousRN614",
-      "text": "Riding off into the sunset 💝",
+      "id": "UgwVYam4F2TubGhcVKJ4AaABAg",
+      "user": "@ramonblanco9231",
+      "text": "Chat were we going",
       "likes": 1,
       "platform": "youtube",
       "saying": "Nobody clapped when I finally..."
     },
     {
-      "id": "UgwVYam4F2TubGhcVKJ4AaABAg",
-      "user": "@ramonblanco9231",
-      "text": "Chat were we going",
+      "id": "UgyxjQcf9EizTN02igt4AaABAg",
+      "user": "@AnonymousRN614",
+      "text": "Riding off into the sunset 💝",
       "likes": 1,
       "platform": "youtube",
       "saying": "Nobody clapped when I finally..."
@@ -50,17 +50,17 @@
       "saying": "Some people only remember you when..."
     },
     {
-      "id": "Ugw-A9Pcs-kJBgznovV4AaABAg",
-      "user": "@Timothy-n4g1m",
-      "text": "Don't get so mad about the things that don't matter, let it go and you find the peace and love for the things that do!!!!!",
+      "id": "Ugz0nUD7oPb1pv6ttMB4AaABAg",
+      "user": "@ŧøx̌ïč̣24-l1r",
+      "text": "Express the young life you have right now bc its going to hurt and getting harder the more you get older trust me",
       "likes": 1,
       "platform": "youtube",
       "saying": "If I could tell my younger self one thing..."
     },
     {
-      "id": "Ugz0nUD7oPb1pv6ttMB4AaABAg",
-      "user": "@ŧøx̌ïč̣24-l1r",
-      "text": "Express the young life you have right now bc its going to hurt and getting harder the more you get older trust me",
+      "id": "Ugw-A9Pcs-kJBgznovV4AaABAg",
+      "user": "@Timothy-n4g1m",
+      "text": "Don't get so mad about the things that don't matter, let it go and you find the peace and love for the things that do!!!!!",
       "likes": 1,
       "platform": "youtube",
       "saying": "If I could tell my younger self one thing..."
@@ -157,16 +157,16 @@
       "total": 2,
       "top": [
         {
-          "id": "UgyxjQcf9EizTN02igt4AaABAg",
-          "user": "@AnonymousRN614",
-          "text": "Riding off into the sunset 💝",
+          "id": "UgwVYam4F2TubGhcVKJ4AaABAg",
+          "user": "@ramonblanco9231",
+          "text": "Chat were we going",
           "likes": 1,
           "platform": "youtube"
         },
         {
-          "id": "UgwVYam4F2TubGhcVKJ4AaABAg",
-          "user": "@ramonblanco9231",
-          "text": "Chat were we going",
+          "id": "UgyxjQcf9EizTN02igt4AaABAg",
+          "user": "@AnonymousRN614",
+          "text": "Riding off into the sunset 💝",
           "likes": 1,
           "platform": "youtube"
         }
@@ -180,8 +180,16 @@
         "youtube": "https://www.youtube.com/shorts/wL7NQhAYgC0",
         "instagram": "https://www.instagram.com/reel/Dfy6JbsEUh_/"
       },
-      "total": 0,
-      "top": []
+      "total": 1,
+      "top": [
+        {
+          "id": "UgznwGYGgQbGqDifrFB4AaABAg",
+          "user": "@Indukenuske",
+          "text": "U missed every moment",
+          "likes": 0,
+          "platform": "youtube"
+        }
+      ]
     },
     {
       "date": "2026-11-15",
@@ -320,16 +328,16 @@
           "platform": "youtube"
         },
         {
-          "id": "Ugw-A9Pcs-kJBgznovV4AaABAg",
-          "user": "@Timothy-n4g1m",
-          "text": "Don't get so mad about the things that don't matter, let it go and you find the peace and love for the things that do!!!!!",
+          "id": "Ugz0nUD7oPb1pv6ttMB4AaABAg",
+          "user": "@ŧøx̌ïč̣24-l1r",
+          "text": "Express the young life you have right now bc its going to hurt and getting harder the more you get older trust me",
           "likes": 1,
           "platform": "youtube"
         },
         {
-          "id": "Ugz0nUD7oPb1pv6ttMB4AaABAg",
-          "user": "@ŧøx̌ïč̣24-l1r",
-          "text": "Express the young life you have right now bc its going to hurt and getting harder the more you get older trust me",
+          "id": "Ugw-A9Pcs-kJBgznovV4AaABAg",
+          "user": "@Timothy-n4g1m",
+          "text": "Don't get so mad about the things that don't matter, let it go and you find the peace and love for the things that do!!!!!",
           "likes": 1,
           "platform": "youtube"
         }
