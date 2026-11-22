@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T08:14:22.759Z",
+  "updatedAt": "2026-11-22T08:12:48.885Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -75,6 +75,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-22",
+      "saying": "It started over with one small...",
+      "postedAt": "2026-11-22T08:12:46.372Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/-oBvKCLAQDY",
+        "instagram": "https://www.instagram.com/reel/DgCWPwLDfI1/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-21",
       "saying": "The small win nobody knows about...",
