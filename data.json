@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T08:14:29.641Z",
+  "updatedAt": "2026-11-24T08:13:34.898Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -75,6 +75,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-24",
+      "saying": "Someone finally saw me when...",
+      "postedAt": "2026-11-24T08:13:32.301Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/TrO-H8BED80",
+        "instagram": "https://www.instagram.com/reel/DgHf7D-ExSm/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-22",
       "saying": "It started over with one small...",
