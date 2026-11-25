@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:13:54.033Z",
+  "updatedAt": "2026-11-25T08:13:25.738Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -75,6 +75,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-25",
+      "saying": "I told myself it didn't matter, but...",
+      "postedAt": "2026-11-25T08:13:23.135Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/C-C3SGmPfKI",
+        "instagram": "https://www.instagram.com/reel/DgKEsu8OdaF/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-24",
       "saying": "Someone finally saw me when...",
