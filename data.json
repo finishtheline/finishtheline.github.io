@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:13:40.325Z",
+  "updatedAt": "2026-11-26T08:13:16.455Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -75,6 +75,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-26",
+      "saying": "At my grandmother's table, I learned...",
+      "postedAt": "2026-11-26T08:13:13.925Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/_qXLR_efmZQ",
+        "instagram": "https://www.instagram.com/reel/DgMpexRsJeb/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-25",
       "saying": "I told myself it didn't matter, but...",
