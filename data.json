@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:13:47.775Z",
+  "updatedAt": "2026-11-27T08:14:28.526Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -16,6 +16,14 @@
       "likes": 2,
       "platform": "youtube",
       "saying": "If I could tell my younger self one thing..."
+    },
+    {
+      "id": "UgwsPaP35yfyqIA1aH94AaABAg",
+      "user": "@ENVYY_DOLL_YT",
+      "text": "it did.",
+      "likes": 1,
+      "platform": "youtube",
+      "saying": "I told myself it didn't matter, but..."
     },
     {
       "id": "UgwVYam4F2TubGhcVKJ4AaABAg",
@@ -51,7 +59,7 @@
     },
     {
       "id": "Ugz0nUD7oPb1pv6ttMB4AaABAg",
-      "user": "@ŧøx̌ïč̣24-l1r",
+      "user": "@ŧøx̌ïč̲24-l1r",
       "text": "Express the young life you have right now bc its going to hurt and getting harder the more you get older trust me",
       "likes": 1,
       "platform": "youtube",
@@ -94,8 +102,16 @@
         "youtube": "https://www.youtube.com/shorts/_qXLR_efmZQ",
         "instagram": "https://www.instagram.com/reel/DgMpexRsJeb/"
       },
-      "total": 0,
-      "top": []
+      "total": 1,
+      "top": [
+        {
+          "id": "UgxZp691NuN3Eo2cI0Z4AaABAg",
+          "user": "@moonkissed-s9j",
+          "text": "What home feels like",
+          "likes": 0,
+          "platform": "youtube"
+        }
+      ]
     },
     {
       "date": "2026-11-25",
@@ -105,8 +121,15 @@
         "youtube": "https://www.youtube.com/shorts/C-C3SGmPfKI",
         "instagram": "https://www.instagram.com/reel/DgKEsu8OdaF/"
       },
-      "total": 2,
+      "total": 3,
       "top": [
+        {
+          "id": "UgwsPaP35yfyqIA1aH94AaABAg",
+          "user": "@ENVYY_DOLL_YT",
+          "text": "it did.",
+          "likes": 1,
+          "platform": "youtube"
+        },
         {
           "id": "18116352200592923",
           "user": "@incogitance",
@@ -115,9 +138,9 @@
           "platform": "instagram"
         },
         {
-          "id": "UgwsPaP35yfyqIA1aH94AaABAg",
-          "user": "@ENVYY_DOLL_YT",
-          "text": "it did.",
+          "id": "UgyogQsxS1OxFD6YoPZ4AaABAg",
+          "user": "@moonkissed-s9j",
+          "text": "Unfortunately It did",
           "likes": 0,
           "platform": "youtube"
         }
@@ -131,8 +154,16 @@
         "youtube": "https://www.youtube.com/shorts/TrO-H8BED80",
         "instagram": "https://www.instagram.com/reel/DgHf7D-ExSm/"
       },
-      "total": 0,
-      "top": []
+      "total": 1,
+      "top": [
+        {
+          "id": "UgyUlIyfnvYMxNxGGVd4AaABAg",
+          "user": "@moonkissed-s9j",
+          "text": "I was at my worst",
+          "likes": 0,
+          "platform": "youtube"
+        }
+      ]
     },
     {
       "date": "2026-11-22",
@@ -388,7 +419,7 @@
         },
         {
           "id": "Ugz0nUD7oPb1pv6ttMB4AaABAg",
-          "user": "@ŧøx̌ïč̣24-l1r",
+          "user": "@ŧøx̌ïč̲24-l1r",
           "text": "Express the young life you have right now bc its going to hurt and getting harder the more you get older trust me",
           "likes": 1,
           "platform": "youtube"
