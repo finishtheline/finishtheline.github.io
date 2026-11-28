@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T08:14:43.000Z",
+  "updatedAt": "2026-11-28T08:13:19.411Z",
   "hall": [
     {
       "id": "UgyGRx-rewxQAVHdbHN4AaABAg",
@@ -83,6 +83,17 @@
     }
   ],
   "lines": [
+    {
+      "date": "2026-11-28",
+      "saying": "We stopped saying I love you and started...",
+      "postedAt": "2026-11-28T08:13:16.979Z",
+      "links": {
+        "youtube": "https://www.youtube.com/shorts/K1rsD1p7Z8U",
+        "instagram": "https://www.instagram.com/reel/DgRzE5_z0U9/"
+      },
+      "total": 0,
+      "top": []
+    },
     {
       "date": "2026-11-27",
       "saying": "Bravery looked small the day I...",
